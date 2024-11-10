@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Herosection from "./Components/Herosection";
 import Education from "./Components/Education";
 import Skills from "./Components/Skill";
